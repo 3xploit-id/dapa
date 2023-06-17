@@ -17,9 +17,17 @@ Apabila terdapat tindakan kriminal dengan script ini ditanggung oleh pengguna
 ```
 copy ini saja biar cepet ya tinggal paste doang masa ribet :v
 
-#termux
+mula-mula kalian salin-tempel dibawah ini (cloning githubnya)
+
+#all-terminal clone github
 $apt update
 $apt upgrade
+$apt install git
+$git clone https://github.com/mrcommand3xp/dapa
+
+setelah kalian clone di terminal manapun, kalian bisa lanjutkan dibawah ini sesuai kriteria
+
+#termux
 $apt install golang-go
 $apt install python
 $pip3 install -r requirements.txt
@@ -28,8 +36,6 @@ ____________________________________
 
 #linux-os
 $sudo su (masuk ke root nya dulu)
-$apt update
-$apt upgrade
 $apt install golang-go
 $apt install python
 $pip3 install -r requirements.txt
