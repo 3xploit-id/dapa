@@ -26,6 +26,7 @@ $sudo su (masuk ke root nya)
 $apt install git
 $apt install golang-go
 $apt install python
+$apt install figlet
 $git clone https://github.com/mrcommand3xp/dapa
 $cd dapa
 $pip3 install -r requirements.txt
