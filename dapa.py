@@ -21,7 +21,7 @@ print ('')
 time.sleep(3)
 
 url = input ('website target : ')
-op = input ('output param : ')
+op = input ('output param .txt : ')
 
 output = subprocess.check_output('pwd', shell=True)
 
@@ -47,7 +47,7 @@ print ('''
 dalfox
 ''')
 time.sleep(6)
-os.system(f'dalfox file {paramm} -o /home/mrcommand/resul.txt')
+os.system(f'dalfox file {paramm} -o {current_directory}/result-dalfox.txt')
 print ("""
 done
 """)
