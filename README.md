@@ -12,6 +12,8 @@ Tujuan pembuatan tools ini hanyalah kegabutan saya mr.command :v
 
 Apabila terdapat tindakan kriminal dengan script ini ditanggung oleh pengguna
 
+output dari dalfox masuk ke = result-dalfox.txt
+
 # CARA PENGINSTALLAN
 
 ```
