@@ -24,9 +24,10 @@ $apt update
 $apt upgrade
 $sudo su (masuk ke root nya)
 $apt install git
-$git clone https://github.com/mrcommand3xp/dapa
 $apt install golang-go
 $apt install python
+$git clone https://github.com/mrcommand3xp/dapa
+$cd dapa
 $pip3 install -r requirements.txt
 $bash install.sh
 $python3 dapa.py
