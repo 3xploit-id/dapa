@@ -17,8 +17,7 @@ Apabila terdapat tindakan kriminal dengan script ini ditanggung oleh pengguna
 ```
 copy ini saja biar cepet ya tinggal paste doang masa ribet :v
 
-mula-mula kalian salin-tempel dibawah ini (cloning githubnya)
-
+____________________________________
 $apt update
 $apt upgrade
 $sudo su (masuk ke root nya)
@@ -28,13 +27,8 @@ $apt install golang-go
 $apt install python
 $pip3 install -r requirements.txt
 $bash install.sh
-
-____________________________________
-
-setelah terinstall semua, kalian tinggal 
-eksekusi tools nya dengan cara
-
 $python3 dapa.py
+____________________________________
 
 ```
 ### THANKS FOR
