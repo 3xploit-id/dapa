@@ -6,7 +6,6 @@ from os import sys
 import time
 import subprocess
 
-os.system('python su.py')
 os.system('clear')
 
 print ("""
